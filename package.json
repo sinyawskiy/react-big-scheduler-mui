@@ -1,0 +1,42 @@
+{
+  "name": "react-big-scheduler-mui",
+  "version": "0.1.0",
+  "description": "A scheduler and resource planning component built for React",
+  "main": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinyawskiy/react-big-scheduler-mui.git"
+  },
+  "keywords": [
+    "scheduler",
+    "react",
+    "planning",
+    "material-ui"
+  ],
+  "author": "Alex Sinyawskiy <sinyawskiy@gmail.com> (https://github.com/sinyawskiy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinyawskiy/react-big-scheduler-mui/issues"
+  },
+  "homepage": "https://github.com/sinyawskiy/react-big-scheduler-mui#readme"
+  "dependencies": {
+    "@babel/core": "^7.7.4",
+    "@date-io/date-fns": "^1.3.13",
+    "@date-io/moment": "^1.3.11",
+    "@material-ui/core": "^4.9.1",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "^3.2.10",
+    "error-overlay-webpack-plugin": "^0.4.1",
+    "html-webpack-plugin": "^3.2.0",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dnd": "^7.5.0",
+    "react-dnd-html5-backend": "^7.5.0",
+    "react-dom": "^16.12.0",
+    "react-dropzone": "^10.2.1"
+  }
+}
